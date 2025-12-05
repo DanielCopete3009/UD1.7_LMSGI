@@ -1,0 +1,84 @@
+{
+  "catalogo": {
+    "producto": [
+      {
+        "id": "prod001",
+        "nombre": "TECLADO",
+        "descripcion": "Un teclado ergonómico y sofisticado que te brindará una experiencia de calidad.",
+        "categoria": "categ1",
+        "precio": {
+          "moneda": "EUR",
+          "valor": 99.99
+        },
+        "imagen": {
+          "url": "https://thvnext.bing.com/th/id/OIP.4GaI5z-HZEXC8bbolmwltQHaHa?w=172&h=180&c=7&r=0&o=7&cb=12&pid=1.7&rm=3&ucfimg=1"
+        }
+      },
+      {
+        "id": "prod002",
+        "nombre": "MICRÓFONO",
+        "descripcion": "Este micrófono tiene un diseño sobrio y una calidad magnífica.",
+        "categoria": "categ2",
+        "precio": {
+          "moneda": "EUR",
+          "valor": 34.21
+        },
+        "imagen": {
+          "url": "https://images-na.ssl-images-amazon.com/images/I/711p1NZ-bvL._AC_SL1500_.jpg"
+        }
+      },
+      {
+        "id": "prod003",
+        "nombre": "MONITOR",
+        "descripcion": "Monitor de 27 pulgadas con excelente calidad de color y resolución QHD (2560x1440).",
+        "categoria": "categ1",
+        "precio": {
+          "moneda": "EUR",
+          "valor": 35.75
+        },
+        "imagen": {
+          "url": "https://thvnext.bing.com/th/id/OIP.azAGIWrZsRPhLOSFvzma9QHaEK?w=276&h=180&c=7&r=0&o=7&cb=12&pid=1.7&rm=3&ucfimg=1"
+        }
+      },
+      {
+        "id": "prod004",
+        "nombre": "ALTAVOCES",
+        "descripcion": "Disfruta de un audio potente y claro con estos altavoces estéreo autoamplificados.",
+        "categoria": "categ2",
+        "precio": {
+          "moneda": "EUR",
+          "valor": 42.97
+        },
+        "imagen": {
+          "url": "https://th.bing.com/th/id/OIP.iX5OyeWF7dF1k6LpbVZEKgHaEK?w=272&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+        }
+      },
+      {
+        "id": "prod005",
+        "nombre": "MOUSE",
+        "descripcion": "El ratón ergonómico está diseñado para ofrecer comodidad y precisión durante largas sesiones.",
+        "categoria": "categ1",
+        "precio": {
+          "moneda": "EUR",
+          "valor": 23.64
+        },
+        "imagen": {
+          "url": "https://thumb.pccomponentes.com/w-530-530/articles/1083/10832302/1330-pccom-essential-e20-raton-ergonomico-inalambrico-1600-dpi-negro-comprar.jpg"
+        }
+      },
+      {
+        "id": "prod005",
+        "nombre": "MOUSE",
+        "descripcion": "El ratón ergonómico está diseñado para ofrecer comodidad y precisión durante largas sesiones.",
+        "categoria": "categ2",
+        "precio": {
+          "moneda": "EUR",
+          "valor": 23.64
+        },
+        "imagen": {
+          "url": "https://thumb.pccomponentes.com/w-530-530/articles/1083/10832302/1330-pccom-essential-e20-raton-ergonomico-inalambrico-1600-dpi-negro-comprar.jpg"
+        }
+      }
+    ]
+  }
+}
