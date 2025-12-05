@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="micatalogo_resumen.xsl"?>
+
+<catalogo>
+
+  <producto id="prod001"> 
+    <nombre>TECLADO</nombre>
+    <descripcion>Un teclado ergonómico y sofisticado que te brindará una experiencia de calidad.</descripcion>
+    <categoria>categ1</categoria>
+    <precio moneda="EUR">99.99</precio>
+    <imagen url="https://thvnext.bing.com/th/id/OIP.4GaI5z-HZEXC8bbolmwltQHaHa?w=172&amp;h=180&amp;c=7&amp;r=0&amp;o=7&amp;cb=12&amp;pid=1.7&amp;rm=3&amp;ucfimg=1"/>
+  </producto>
+
+  <producto id="prod002">
+    <nombre>MICRÓFONO</nombre>
+    <descripcion>Este micrófono tiene un diseño sobrio y una calidad magnífica.</descripcion>
+    <categoria>categ2</categoria>
+    <precio moneda="EUR">34.21</precio>
+    <imagen url="https://images-na.ssl-images-amazon.com/images/I/711p1NZ-bvL._AC_SL1500_.jpg"/>
+  </producto>
+
+  <producto id="prod003">
+    <nombre>MONITOR</nombre>
+    <descripcion>Monitor de 27 pulgadas con excelente calidad de color y resolución QHD (2560x1440).</descripcion>
+    <categoria>categ1</categoria>
+    <precio moneda="EUR">35.75</precio>
+    <imagen url="https://thvnext.bing.com/th/id/OIP.azAGIWrZsRPhLOSFvzma9QHaEK?w=276&amp;h=180&amp;c=7&amp;r=0&amp;o=7&amp;cb=12&amp;pid=1.7&amp;rm=3&amp;ucfimg=1"/>
+  </producto>
+
+  <producto id="prod004">
+    <nombre>ALTAVOCES</nombre>
+    <descripcion>Disfruta de un audio potente y claro con estos altavoces estéreo autoamplificados.</descripcion>
+    <categoria>categ2</categoria>
+    <precio moneda="EUR">42.97</precio>
+    <imagen url="https://th.bing.com/th/id/OIP.iX5OyeWF7dF1k6LpbVZEKgHaEK?w=272&amp;h=180&amp;c=7&amp;r=0&amp;o=7&amp;pid=1.7&amp;rm=3"/>
+  </producto>
+
+  <producto id="prod005">
+    <nombre>MOUSE</nombre>
+    <descripcion>El ratón ergonómico está diseñado para ofrecer comodidad y precisión durante largas sesiones.</descripcion>
+    <categoria>categ1</categoria>
+    <precio moneda="EUR">23.64</precio>
+    <imagen url="https://thumb.pccomponentes.com/w-530-530/articles/1083/10832302/1330-pccom-essential-e20-raton-ergonomico-inalambrico-1600-dpi-negro-comprar.jpg"/>
+  </producto>
+
+  <producto id="prod005">
+    <nombre>MOUSE</nombre>
+    <descripcion>El ratón ergonómico está diseñado para ofrecer comodidad y precisión durante largas sesiones.</descripcion>
+    <categoria>categ2</categoria>
+    <precio moneda="EUR">23.64</precio>
+    <imagen url="https://thumb.pccomponentes.com/w-530-530/articles/1083/10832302/1330-pccom-essential-e20-raton-ergonomico-inalambrico-1600-dpi-negro-comprar.jpg"/>
+  </producto>
+
+</catalogo>
